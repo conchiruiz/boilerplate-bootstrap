@@ -1,0 +1,34 @@
+
+body{
+    background-color: silver;
+}
+.page-header{
+    text-align: center;
+    text-shadow: 2px 2px 2px;
+    color: #d2c816;
+    background-color: #661941;
+}
+h4{
+    color: #661941;
+}
+.misbordes{
+    border: 2px groove #661941;
+    border-radius: 4px;
+}
+.boton{
+    color: #d2c816;
+    background-color: #661941;
+    
+}
+
+
+.figura-uva{
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    margin: 20px;
+    
+}
+.figura-uva img{
+    width:100%;
+}
